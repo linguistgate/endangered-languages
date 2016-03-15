@@ -1,0 +1,482 @@
+#+INFOJS_OPT: view:t toc:t ltoc:t mouse:underline buttons:0 path:http://thomasf.github.io/solarized-css/org-info.min.js
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://thomasf.github.io/solarized-css/solarized-light.min.css" />
+#+TITLE: Investigating Endangered Languages
+#+AUTHOR: Matthew Edward Adams
+#+STARTUP: showall indent
+* Project Details
+** Organization
+|-------------------+--------------------------------------|
+| Name of Project   | *Investigating Endangered Languages* |
+| Developer         | Matthew Edward Adams                 |
+| Developer Website | http://www.matthew-edward-adams.org  |
+| Duration          | 6 weeks                              |
+| Teachers          | Individual                           |
+|                   | Team-teaching is possible.           |
+|-------------------+--------------------------------------|
+** Summary
+The purpose of this project is to enable students to investigate a
+specific [[https://en.wikipedia.org/wiki/Endangered_language][endangered language]] of the world, tracing properties and facts
+about the language and its speakers, reasons for its endangered status,
+and possible solutions to the endangerment of this language as well as
+others. Students will learn to use linguistically appropriate
+terminology in discussing the language and its speakers; to identify
+political and social causes of language endangerment; to derive reasons
+for why linguistic diversity is important; and to propose solutions,
+both small- and large-scale, to encourage linguistic diversity with
+respect to their chosen language and, ultimately, to sociolinguistic
+situations in their own community.
+
+A major function of the project is to direct students toward a public
+presentation of their research. They will learn to develop a research
+plan and enact it, and they will demonstrate their knowledge and thought
+process by presenting their findings using two modalities: visual (a
+poster) and oral (an accompanying short speech and receptiveness to
+answering audience questions).
+* Public Exhibition
+The culmination of this project will be a poster and presentation
+session to which members of the school and local community will be
+invited. Students will display their information in a graphically
+appealing, visually stimulating way using standard conference
+posters. They will also be expected to give a short overview of salient
+facts about their endangered language, in particular its geographical
+location, the number of speakers, some fun facts about the language that
+set it apart from English, and clear identification of some causes of
+the erosion in the number of speakers of the language.
+
+Students should be able to answer additional questions about potential
+solutions to the language crisis, generate debate about the importance
+of linguistic diversity, and respond to requests for more information
+from attendees.
+
+Taking a longer view, I envision students taking the results from this
+initial public exhibition and applying for a Special Workshop Session at
+the [[http://www.linguisticsociety.org/][Linguistic Society of America]]'s Annual Meeting, held in a different
+U.S. city each year. In January 2017, it will be held in Austin,
+Texas. In 2018, it will be held in Salt Lake City, Utah. And in 2019, it
+will be held in New York City. Given procurement of funding, students
+would travel to this conference, present their information in a special
+poster session, and interact with working linguists, some of whom are
+actively engaged in language endangerment research and revitalization
+efforts.
+* Learning Objectives
+
+A central strength of using *linguistics in a high school classroom* is
+that it touches on so many academic disciplines at once. This maintains
+student interest by showing how complex and all-encompassing language is
+in their daily lives. It also ensures that existing academic subjects
+receive additional "support" via a linguistic point-of-view.
+
+I summarize below both key knowledge areas and understanding, as well as
+success skills, in particular the *academic mindsets*, that students
+should develop and adopt.
+
+** Key Knowledge and Understanding
+
+What follows are some content areas that the project explicitly touches
+on. This is just a sample. Further work on the course would align many
+of them, if needed, to specific Common Core standards or other
+educational objectives operative at the school, district, or national
+level.
+
+- Language Arts
+  - What makes a language a language?
+    - "Standard" vs. dialect
+    - Dialect vs. accent
+    - Written vs. non-written
+    - Language attitudes and judgments about speakers
+  - Structure of language
+    - Phonology and phonetics \\
+      - Language consists of sounds that are assembled in systematic
+        ways to produce /meaningful/ words.
+      - Languages differ radically in the sounds they use to build
+        words. Many of the sounds we are used to in speaking English or
+        Spanish are not found in other languages, and vice versa.
+    - Morphology \\
+      Language consists of ways of putting words, suffixes, and prefixes
+      together to show /grammatical/ relationships (subject-object,
+      possession, etc.).
+    - Syntax and semantics \\
+      Language consists of ways of putting words together to /convey
+      ideas about the world/.
+  - Use of language
+    - Communicative \\
+      Language involves exchanging ideas and information.
+    - Expressive \\
+      Language can express and "index" identities, roles, relationships.
+    - And many more!
+  - Reading and writing
+    - Not all endangered languages can be read because they have no written form.
+    - Reading a foreign language is challenging and requires years of study.
+- Geography
+  - Nations vs. countries \\
+    Where a language is spoken does not always correspond to national or
+    other political boundaries.
+  - Distribution and location \\
+    50% of the world's languages are located in just eight of the
+    world's countries: India, Brazil, Mexico, Australia, Indonesia,
+    Nigeria, Papua New Guinea, and Cameroon.
+  - Diversity \\
+    Linguistic diversity is analogous to biodiversity.
+- Government and politics
+  - Language policy \\
+    - In the United States, many indigenous tribes were [[https://content.lib.washington.edu/aipnw/marr.html][forced to learn
+      English and sent to boarding schools in the Pacific Northwest.]] \\
+    - In the United Kingdom, Welsh [[https://anthropology.artsci.wustl.edu/sociocultural-anthropology/articles/150][was banned from many parts of public
+      life, though recent efforts have dramatically improved chances of
+      revitalization.]]
+  - Local government vs. national government
+- History
+  - Potential sources of language endangerment
+    - Imperialism
+    - Globalization
+    - Racism
+    - Economic progress
+    - Migration
+    - War
+  - "Guns, Germs, and Steel"
+    - What makes a language dominant?
+    - Dispelling the notion that there is any such thing as a perfect or
+      better language for communication
+- Statistics
+  - Number of languages in the world
+  - Percentages vs. raw number of speakers
+  - Definitions of "endangered" and finding a =range=, =mean=, and other
+    descriptive statistics
+  - Learning ways to visualize and display data /honestly/,
+    /appealingly/, and /revealingly/
+** Success Skills
+- Critical thinking and problem solving
+  1. What are basic facts about the endangered language?
+     - Geographical location
+     - Number of speakers
+     - Type of language
+     - Written vs. non-written
+     - Fun language examples
+  2. What are the major issues involved in making the language endangered?
+     - Geographical
+     - Political
+     - Historical
+     - Causes external and internal to the language community
+  3. "Do I have a good understanding of the facts and issues?"
+     - Self-assessment
+     - Creating materials to remember and broadcast what has been learned
+     - Creating follow-up questions
+     - Identifying holes in knowledge and being curious about the unknown
+  4. Can I propose some solutions?
+     - Hypothesis generation
+     - Checking solutions against historical record: Has a solution been
+       tried before?
+     - What could be preventing the implementation of a particular solution?
+     - Coming to an understanding of complex systems and the need for
+       partial or incremental solutions
+- Collaboration
+  1. Recruit another student and create a short dialog in the language
+  2. Find native speakers in the community and contact them
+  3. Write linguists working on the language and ask them for feedback
+- Self-management
+  1. How do I organize my time appropriately?
+  2. How do I organize my research?
+  3. What tools (books, software, knowledge) do I have to create a
+     coherent presentation?
+  4. How do I present my information professionally and respectfully?
+  5. How do I fact-check?
+  6. Am I revisiting my work and critiquing it?
+  7. Am I being /compassionately objective/ to myself as a learner?
+* Craft the Driving Question
+
+Despite the fact that there are more than 6,000 spoken languages on
+Earth, many languages have very few speakers and risk dying out in the
+next several generations. *What are some of these languages, what can
+they teach us about language in general, what causes endangerment, and what solutions exist for maintaining linguistic diversity in the future?*
+
+Each student should focus on choosing a single endangered language,
+learning about its structure and speakers, identifying causes of
+endangerment, and *discovering why linguistic diversity is important*
+(with the important goal of trying to propose ways of solving some small
+corner of the linguistic diversity crisis).
+
+* Plan the Launch
+
+I envision this project as part of a linguistics course taught at the
+high school level. I have material elsewhere devoted to issues of
+motivation for teaching at high school, [[https://muse.jhu.edu/login?auth=0&type=summary&url=/journals/language/v090/90.4.loosen.pdf][case studies of its
+implementation in the United States and elsewhere]], and recruitment
+strategies.
+
+It is also possible to envision the course operating within a digital
+humanities course elective or even an English or foreign language
+course, though additional work would have to be done on introducing
+central linguistic concepts (accent, dialect, syntax, etc.).
+
+I will engage students in the topic by providing audio and video samples
+of various languages of the world, endangered and otherwise (Xhosa,
+Hungarian, Cherokee, Basque, Icelandic, Gaelic, etc.). I will invite
+them to reflect on what a language even is; what its uses are; how and
+why languages differ from each other. In my experience, these are
+fascinating topics for people of many different backgrounds and age
+groups, and in-class discussion can be vigorous and revealing.
+
+I will then play students samples or show them examples of endangered
+languages and ask them to reflect on whether they think all of the
+languages I have played will be alive in 100 years. I will invite them
+to compare linguistic diversity with animal and plant diversity and
+discuss reasons why loss of linguistic diversity might also be bad for
+the planet and human society.
+
+Endangered languages often have fun and interesting names, and this adds
+to initial student interest in the topic.
+
+* Plan the Assessments
+** Early in the Project
+*** Product
+- Students choose a single endangered language from a provided list
+  - I've ensured that the list provides sufficient material from existing research.
+- Students provide a *research plan* for the next six weeks, detailing
+  - Online and offline resources they will use
+    - The teacher will provide them with sufficiently scaffolded starters.
+  - A set of questions they will need to ask and answer
+    - The teacher will provide them with a sufficiently detailed starter
+      set of questions about their language.
+    - They will need to come up with more on their own.
+    - The questions should run the gamut from the informational to the
+      high-level (how does racism impact language use?).
+  - A rough draft of what they would like their final poster to contain
+    - Sections and themes
+    - Materials they will need (markers, printers, audio equipment, etc.)
+    - Brainstorming of what could make their poster "stand out"
+  - Putting a personal stamp on their research
+    - Write down what interests them the most about the topic
+    - Identify three additional questions that increase their personal involvement
+      - A part of the world they want to travel to someday?
+      - Ancestors who live in the region they're interested in?
+      - Like the sound of the language and want to learn more about linguistics?
+*** Criteria
+
+I will use teacher-student feedback during in-class work, in short
+one-on-one meetings and asynchronously, and via the Wiki interface
+itself (see next section). I will employ a standard rubric that takes
+into account different thinking styles and rewards student work that is
+both rigorous and innovative.
+
+1. Feasibility and scope: Is it too much? Is it asking questions that
+   lead to *sustained inquiry*?
+2. Is the student asking sufficiently detailed questions?
+3. Does the research plan show a beginning, middle, and end?
+** During the Project
+*** Product
+- An *online journal* shared among members of the class using a [[https://en.wikipedia.org/wiki/Wiki_software][Wiki]]
+  format, set up and maintained by the instructor.
+- Students will add information about their language at calendared
+  intervals, filling in sections partly put in place ahead of time and
+  partly during in-class work sessions.
+- Product can form the basis for a class website of endangered languages,
+  which can then go online after editing, scrubbing of personal
+  information, etc., as a *public resource*.
+*** Criteria
+
+I will use similar assessment criteria at this stage (interventions,
+meetings, written feedback, and feedback over the Wiki).
+
+- Are students fact-checking?
+- Are students citing material appropriately and judiciously?
+- Are they using professional English to convey their discovered facts
+  and ideas?
+- Are students asking probing follow-up questions every time they ask a question?
+** End of the Project (Final Product)
+*** Product
+- *Poster* and *presentation*
+*** Criteria
+- The poster will be printed on [[https://wiki.queensu.ca/download/attachments/89391582/Tennant-Catherine-2010.jpg?version=1&modificationDate=1381863613000&api=v2][academic-sized poster board with clearly
+  defined sections]], providing a clear narrative about the language and
+  its state of endangerment.
+- Visually appealing and professionally designed poster that displays information
+  - Graphically (graphs, maps)
+  - Textually (language examples, facts, argumentation)
+  - Audiovisually (language examples)
+- Professional delivery of a five-minute "elevator" speech about the language
+  - Speakers of the language
+  - Structure of the language
+  - History
+  - Location
+  - Political problems
+  - Causes for endangerment
+  - Possible solutions
+  - Resources and existing research
+- Ability to respond to audience members
+  - Asking clarifying questions
+  - Admitting when they don't know an answer and making an effort to find out
+    at a later date
+  - Thanking attendees and projecting enthusiasm for their language and
+    its importance as a piece of linguistic diversity
+* Calendar the Project 
+
+I envision this as taking place within a larger curricular
+framework. Students may have full time on some days to work, while on
+others it may be 20--30 minutes of classroom time. It will, however,
+constitute the main homework for the course during the period.
+
+Depending on class ability level, an additional week may be necessary
+for research and editing.
+
+|---------------------------------------------------------------+---------------------------------------------------------+---------------------------------------------------------------------+-------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+--------------------------------------------------------|
+| Monday                                                        | Tuesday                                                 | Wednesday                                                           | Thursday                                                                      | Friday                                                                                          | Weekend                                                |
+|---------------------------------------------------------------+---------------------------------------------------------+---------------------------------------------------------------------+-------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+--------------------------------------------------------|
+| Introduction                                                  | Introduction                                            | Choosing their language                                             | Developing a research plan: In class mini-workshop and demonstration          | Guest presentation from local universitylinguist                                                | Draft of research plan (Wiki)                          |
+| In-class research (Wiki and journal)                          | In-class research (Wiki and journal)                    | Individual meeting with students; feedback and class instruction: taking stock of where we are | In-class research (Wiki and journal)                                          | In-class research (Wiki and journal)                                                            | Final form of research plan (Wiki)                     |
+| Guest presentation on designing visually appealing posters    | In class research (Wiki and journal)                    | In-class research (Wiki and journal)                                | Second individual meeting with students; in-class research (Wiki and journal) | Modeling of successful poster presentation (by instructor)                                      | Out-of-class research (Wiki and journal)               |
+| Class meeting about progress (concerns, timelines, deadlines) | Organizing research for presentation (Wiki and journal) | Organizing and editing research for presentation (Wiki and journal) | Poster construction                                                           | Poster construction                                                                             | Writing elevator speeches                              |
+| Writing elevator speeches                                     | Writing elevator speeches                               | Practicing elevator speeches                                        | Practicing and critiquing elevator speeches                                   | Final individual assessment from instructor; group critiques of presentations (poster and oral) | Practice! Final journal reflections (Wiki and journal) |
+|                                                               |                                                         |                                                                     |                                                                               |                                                                                                 |                                                        |
+|                                                               |                                                         |                                                                     |                                                                               |                                                                                                 |                                                        |
+| Poster presentation conference!                               |                                                         |                                                                     |                                                                               |                                                                                                 |                                                        |
+|---------------------------------------------------------------+---------------------------------------------------------+---------------------------------------------------------------------+-------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+--------------------------------------------------------|
+
+* Student Voice and Choice
+
+Students have opportunity at every stage of the project to express voice
+and choice.
+
+- In initial weeks
+  - Reflect on and give their own opinions and stories about language,
+    language use, and language endangerment
+  - Choose their own language from a list based on their expressed interests
+    - A Choose Your Own Adventure model of answering 10 questions will
+      supply them with two or three possibilities.
+      - How many languages do you speak?
+      - Where is your family originally from?
+      - Where do you hope to travel someday?
+      - Etc.
+    - The algorithm will ensure that there is no overlap among students.
+    - Sadly, there are plenty of endangered languages for this to be possible.
+  - Develop extensions to a template research plan
+  - Ask questions to a guest linguist working on endangered languages
+- In weeks two onward
+  - Engage in active research (Web, library, interviews) based on their
+    research plan
+  - Identify problems with their research in their journaling
+  - Track their research via the Wiki format
+  - Engage with other students in teams that support each other's
+    research and motivation
+- In weeks four onward
+  - Design and begin construction of their own poster
+  - Include, assimilate, or even reject feedback from team members,
+    instructor, and possibly other members of the faculty on ways to
+    improve their presentation and sharpen their visual and oral skills
+  - Decide if they want to make their poster more "multi-dimensional"
+    - Sound clips
+    - Screen showing interviews with speakers
+    - Books published in the language (dictionaries)
+    - Artwork that reflects concerns about linguistic diversity
+    - How they will dress and behave as presenters
+
+More advanced students will be given greater leeway in their Wikis and
+journals to decide how they want to continue their investigation and
+present their results and findings; demonstrate visually and orally what
+they have learned; and provide extensions to their work as they engage
+with the public.
+
+* Critique and Revision
+
+Students are encouraged to be the first responders to critique and
+revise their work. Daily journaling and the Wiki framework naturally
+encourage reflection and re-planning.
+
+I have built into the class schedule many opportunities for instructor
+feedback at both the class and individual level. This will be done with
+written expectations and suggestions, verbal discussions of how the
+project could unfold and problems the student researcher is facing, and
+most importantly, collaborative work on the Wiki between instructor and
+student.
+
+The journal is an important research tool that allows students to track
+their own progress, revise as they go, and demonstrate growth as they
+learn more about a complex topic.
+
+The Wiki is in place to build a solid research foundation on their work,
+with built-in assistance. It also will include guiding questions,
+resources, and other materials that students can harness in case they
+find themselves stuck. It lends itself naturally to revision because of
+the very nature of Wikis.
+
+Lastly, students will be organized into accountability groups in the
+classroom. While they will be working on separate languages, they will
+occasionally be required to explain aspects of their research to their
+peers, and their peers are additionally required to provide feedback and
+critique of work quality.
+
+Final quality assurance rests with the student and instructor.
+
+* Reflection
+
+Weekly journal entries will ask for higher-level reflective responses on
+the nature of research itself:
+- What is most challenging about research?
+- What specific problems were encountered and overcome this week?
+- What could be improved about the project itself?
+- What gaps in knowledge are apparent? What is being done to fill them,
+  or are they best left for the future?
+
+* Differentiation
+
+As I mentioned in the calendar portion of this plan, some classes may
+need more time than six weeks for roll-out, research, development, and
+implementation of a coherent poster presentation. That is the best-case
+scenario. It can easily take seven to ten weeks, especially if the class
+has other material being taught during class time.
+
+A particularly strong case for why linguistics makes sense in high
+school is that it offers something to everyone: a math-inclined person can
+develop quantitative skills in linguistics. A person inclined more to
+poetry can explore aesthetic aspects of the language in question. There
+is a wealth of directions a student can travel, and all of them are
+productive.
+
+This is true as well for ESL students, special-needs students, and
+students with diverse learning styles. The Wiki and journal system
+provides cohesion in the course and a set of universal requirements, but
+within that framework, there is incredible room for student development
+and growth.
+
+Some students will require more feedback, more scaffolding, and more
+help in finding resources. The accountability of the Wiki and the
+journal provide a sure-fire, daily way for the instructor to track students'
+progress and adapt in individual cases as needed. Of course, the
+foremost goal of the course is to promote a "flexible learner," so
+students should always be pushed to a reasonable standard, but no one
+should fall through the cracks, especially with a project with such rich
+possibilities for learners of so many different styles, backgrounds, and
+abilities.
+
+* Materials and Staff Resources
+
+The teacher will need 
+
+- laptop computers with intranet ability (for the Wiki and the journal)
+- Web access, including access to online libraries
+- guest speakers to round out the intructor's own discussion
+  - a field linguist working on an endangered language
+  - a policy expert working on revitalization
+  - a member of an endangered language
+  - an instructor specializing in visual presentation of materials
+- poster materials and supplies, including funds for printing posters
+  (often close to $80)
+- audiovisual equipment
+- editing and proofreading help from aides and volunteers
+- scheduling and venue assistance from the administration to schedule a
+  public poster presentation
+- recruitment of volunteers for the conference (set-up, take-down, food)
+
+* Initial List of Resources and Endangered Languages of Interest
+** Resources
+- [[http://www.endangeredlanguages.com/][The Endangered Languages Project]]
+- [[http://www.unesco.org/new/en/culture/themes/endangered-languages/atlas-of-languages-in-danger/][UNESCO Atlas of the World's Languages in Danger]]
+- [[http://linguistics.berkeley.edu/~survey/resources/funding.php][Survey of California and Other Indian Languages]]
+- Main journal: [[http://nflrc.hawaii.edu/ldc/][Language Documentation and Conservation]]
+- Many, many more ...
+** Some Example Languages
+ - [[http://www.endangeredlanguages.com/lang/region][Endangered Langauges by World Region]]
+ - [[http://www.unesco.org/languages-atlas/index.php?hl=en&page=atlasmap][Severely Endangered Languages in the Western United States]]
+   (searchable map from UNESCO)
+ #+CAPTION: Endangered Languages in the United States (Source: Moseley, Christopher (ed.). 2010. Atlas of the World’s Languages in Danger, 3rd edn. Paris, UNESCO Publishing. Online version: http://www.unesco.org/culture/en/endangeredlanguages/atlas)
+ #+ATTR_HTML: :alt US endangered languages image :title Endangered Languages in the United States :align center
+[[~/teaching/endangered-languages_project/img/unesco_united-states_endangered.png]]
