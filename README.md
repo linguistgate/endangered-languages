@@ -1,1 +1,1 @@
-# endangered-languages
+# Endangered Languages Project
